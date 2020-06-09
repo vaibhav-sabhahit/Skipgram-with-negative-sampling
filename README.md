@@ -1,1 +1,0 @@
-# Skipgram-with-negative-sampling
